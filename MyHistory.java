@@ -59,4 +59,5 @@ public class MyHistory {
             }
         }
         return String.join("\n", arr);
-    }}
+    }
+}
